@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.word{
+    color: black;
+    margin-top: 5%;
+    background-color: white;
+    height: 100px;
+    width: 40%;
+    font-size: 20px;
+    border-radius: 20px;
+    
+}
+.submit
+{
+    margin-top: 5%;
+    width: 20%;
+    height: 30px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    border-radius: 10px;
+}

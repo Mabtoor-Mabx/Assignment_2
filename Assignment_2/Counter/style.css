@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    color: white;
+}
+
+.head{
+    text-align: center;
+}
+.btn{
+    position: relative;
+    left: 30%;
+   
+    width: 20%;
+    height: 50px;
+    background-color: white;
+    color: black;
+}
